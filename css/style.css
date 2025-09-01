@@ -5,3 +5,32 @@
     padding: 0;
     border: 0;
 }
+
+body {
+    text-align: center;
+    font-size: 18px;
+}
+
+h1 {
+    padding: 20px 0;
+    margin: 0 0 10px 0;
+
+    background: #cecdcd;
+}
+
+a {
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    transition: all 0.3s;
+}
+
+a:hover {
+    color: rgb(146, 146, 146);
+    text-decoration: underline;
+    font-size: 19px;
+}
+
+.home {
+    margin: 10px 0 ;
+}
